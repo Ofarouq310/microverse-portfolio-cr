@@ -105,7 +105,7 @@ To get a local copy up and running, follow these steps.
 
 - Contributions, issues, and feature requests are welcome!
 
-- Feel free to check the [issues page](../../issues/).
+- Feel free to check the [issues page](https://github.com/Ofarouq310/microverse-portfolio-cr/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -129,6 +129,6 @@ To get a local copy up and running, follow these steps.
 
 ## 📝 License <a name="license"></a>
 
-- This project is [MIT](./LICENSE) licensed.
+- This project is [MIT](https://github.com/Ofarouq310/microverse-portfolio-cr/blob/mobile-menu/MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
