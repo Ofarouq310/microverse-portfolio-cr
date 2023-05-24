@@ -67,7 +67,7 @@ To get a local copy up and running, follow these steps.
 
 ### Setup
 
-- `cd` into your local repository
+- gh repo clone Ofarouq310/microverse-portfolio-cr
 
 ### Install
 
